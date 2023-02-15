@@ -18,6 +18,6 @@ In this repository, there are two-ish main branches:
 **Personal Feature Branches:** Branches which team members work on bug fixes, new features, or experimental code for the robot. Each branch should be named by the following convention: `initials-type-description`.
 
 
-# Crabby: Semi-finalist Robot UBC ENPH Competition
+# Mr Crabs: Semi-finalist Robot UBC ENPH Competition
 
 ![Mr Crabs Robot](https://github.com/julianLapenna12/robot-summer/blob/production/imgs/im1.png)
