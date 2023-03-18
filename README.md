@@ -19,6 +19,6 @@ In this repository, there are two-ish main branches:
 
 # Mr Crabs: Semi-finalist Robot UBC ENPH Competition
 
-https://raw.githubusercontent.com/julianLapenna12/Treasure-Collecting-Robot/production/media/robot-video_1.7718825d136497c20f4b.mp4
+![Demo]((https://github.com/julianLapenna12/Treasure-Collecting-Robot/blob/production/media/gif1.gif)
 
 ![Mr Crabs Robot](https://github.com/julianLapenna12/Treasure-Collecting-Robot/blob/production/media/im1.png)
