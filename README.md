@@ -1,6 +1,5 @@
 # Team Mode Push's Robot Firmware
 
-## Current State: Build Passing
 ## Overall Structure
 
 There exist five main file types in this repo:
@@ -20,4 +19,6 @@ In this repository, there are two-ish main branches:
 
 # Mr Crabs: Semi-finalist Robot UBC ENPH Competition
 
-![Mr Crabs Robot](https://github.com/julianLapenna12/robot-summer/blob/production/imgs/im1.png)
+![Video Demo](https://github.com/julianLapenna12/Treasure-Collecting-Robot/blob/production/media/robot-video_1.7718825d136497c20f4b.mp4)
+
+![Mr Crabs Robot](https://github.com/julianLapenna12/Treasure-Collecting-Robot/blob/production/media/im1.png)
